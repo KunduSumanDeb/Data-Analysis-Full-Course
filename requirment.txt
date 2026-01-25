@@ -1,0 +1,7 @@
+- pip install ipykernel
+- conda create -p venv python=3.13
+- conda activate D:\Programming\Data_Analysis\venv
+- conda deactivate
+
+Basic Syntax rules in python
+Python is case sensitive
