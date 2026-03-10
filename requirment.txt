@@ -5,3 +5,5 @@
 
 Basic Syntax rules in python
 Python is case sensitive
+
+- pip install numpy
