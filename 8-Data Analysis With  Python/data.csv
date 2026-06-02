@@ -1,0 +1,101 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
+TXN001,2025-01-01,Electronics,Wireless Mouse,15,799,11985,East,UPI
+TXN002,2025-01-02,Clothing,T-Shirt,22,499,10978,North,Credit Card
+TXN003,2025-01-03,Books,Python Guide,10,899,8990,South,Cash
+TXN004,2025-01-04,Electronics,Bluetooth Speaker,8,2499,19992,West,Debit Card
+TXN005,2025-01-05,Grocery,Organic Rice 5kg,20,650,13000,East,UPI
+TXN006,2025-01-06,Clothing,Jeans,12,1499,17988,South,Credit Card
+TXN007,2025-01-07,Electronics,Smart Watch,5,4999,24995,North,UPI
+TXN008,2025-01-08,Books,Data Science Handbook,7,1299,9093,West,Cash
+TXN009,2025-01-09,Home Decor,LED Lamp,18,899,16182,East,Debit Card
+TXN010,2025-01-10,Electronics,Keyboard,14,1199,16786,South,Credit Card
+TXN011,2025-01-11,Grocery,Olive Oil,16,750,12000,North,UPI
+TXN012,2025-01-12,Clothing,Sports Shoes,9,2999,26991,West,Credit Card
+TXN013,2025-01-13,Electronics,Power Bank,21,1299,27279,East,Debit Card
+TXN014,2025-01-14,Books,ML Guide,6,1399,8394,South,Cash
+TXN015,2025-01-15,Home Decor,Wall Clock,11,799,8789,North,UPI
+TXN016,2025-01-16,Electronics,USB Hub,13,699,9087,West,Credit Card
+TXN017,2025-01-17,Grocery,Green Tea,25,350,8750,East,Cash
+TXN018,2025-01-18,Clothing,Hoodie,10,1999,19990,South,Debit Card
+TXN019,2025-01-19,Electronics,Earbuds,17,1799,30583,North,UPI
+TXN020,2025-01-20,Books,AI Basics,8,999,7992,West,Credit Card
+TXN021,2025-01-21,Home Decor,Table Lamp,12,1099,13188,East,UPI
+TXN022,2025-01-22,Electronics,Webcam,7,2499,17493,South,Debit Card
+TXN023,2025-01-23,Grocery,Coffee Beans,14,899,12586,North,Cash
+TXN024,2025-01-24,Clothing,Jacket,6,3499,20994,West,Credit Card
+TXN025,2025-01-25,Electronics,Monitor,4,12999,51996,East,UPI
+TXN026,2025-01-26,Books,Java Programming,11,799,8789,South,Cash
+TXN027,2025-01-27,Home Decor,Cushion Set,19,499,9481,North,Debit Card
+TXN028,2025-01-28,Electronics,Router,9,2299,20691,West,Credit Card
+TXN029,2025-01-29,Grocery,Honey,15,599,8985,East,UPI
+TXN030,2025-01-30,Clothing,Cap,24,299,7176,South,Cash
+TXN031,2025-02-01,Electronics,Laptop Stand,16,1499,23984,North,Credit Card
+TXN032,2025-02-02,Books,Cloud Computing,7,1199,8393,West,UPI
+TXN033,2025-02-03,Home Decor,Photo Frame,18,399,7182,East,Debit Card
+TXN034,2025-02-04,Electronics,SSD 1TB,5,6499,32495,South,Credit Card
+TXN035,2025-02-05,Grocery,Almonds,12,899,10788,North,Cash
+TXN036,2025-02-06,Clothing,Formal Shirt,14,999,13986,West,UPI
+TXN037,2025-02-07,Electronics,Graphics Tablet,3,7999,23997,East,Credit Card
+TXN038,2025-02-08,Books,Cyber Security,9,1099,9891,South,Cash
+TXN039,2025-02-09,Home Decor,Plant Pot,20,349,6980,North,Debit Card
+TXN040,2025-02-10,Electronics,Printer,4,8999,35996,West,Credit Card
+TXN041,2025-02-11,Grocery,Cashews,11,999,10989,East,UPI
+TXN042,2025-02-12,Clothing,Track Pants,15,799,11985,South,Cash
+TXN043,2025-02-13,Electronics,Smartphone,6,18999,113994,North,Credit Card
+TXN044,2025-02-14,Books,Deep Learning,5,1599,7995,West,UPI
+TXN045,2025-02-15,Home Decor,Mirror,8,1299,10392,East,Debit Card
+TXN046,2025-02-16,Electronics,Microphone,7,2999,20993,South,Credit Card
+TXN047,2025-02-17,Grocery,Protein Oats,13,699,9087,North,Cash
+TXN048,2025-02-18,Clothing,Sweatshirt,10,1699,16990,West,UPI
+TXN049,2025-02-19,Electronics,Tablet,5,15999,79995,East,Credit Card
+TXN050,2025-02-20,Books,Networking Guide,8,899,7192,South,Cash
+TXN051,2025-02-21,Home Decor,Rug,6,2499,14994,North,Debit Card
+TXN052,2025-02-22,Electronics,Projector,3,24999,74997,West,Credit Card
+TXN053,2025-02-23,Grocery,Peanut Butter,18,499,8982,East,UPI
+TXN054,2025-02-24,Clothing,Socks Pack,30,199,5970,South,Cash
+TXN055,2025-02-25,Electronics,Mechanical Keyboard,7,3999,27993,North,Credit Card
+TXN056,2025-02-26,Books,Algorithms,9,999,8991,West,UPI
+TXN057,2025-02-27,Home Decor,Curtains,8,1899,15192,East,Debit Card
+TXN058,2025-02-28,Electronics,External HDD,6,5499,32994,South,Credit Card
+TXN059,2025-03-01,Grocery,Dark Chocolate,22,299,6578,North,Cash
+TXN060,2025-03-02,Clothing,Blazer,4,4999,19996,West,UPI
+TXN061,2025-03-03,Electronics,Drone,2,34999,69998,East,Credit Card
+TXN062,2025-03-04,Books,Statistics Essentials,10,799,7990,South,Cash
+TXN063,2025-03-05,Home Decor,Bookshelf,5,5999,29995,North,Debit Card
+TXN064,2025-03-06,Electronics,Gaming Mouse,12,2499,29988,West,Credit Card
+TXN065,2025-03-07,Grocery,Basmati Rice,14,799,11186,East,UPI
+TXN066,2025-03-08,Clothing,Polo Shirt,16,899,14384,South,Cash
+TXN067,2025-03-09,Electronics,Smart TV,3,42999,128997,North,Credit Card
+TXN068,2025-03-10,Books,Big Data,7,1199,8393,West,UPI
+TXN069,2025-03-11,Home Decor,Coffee Table,4,6999,27996,East,Debit Card
+TXN070,2025-03-12,Electronics,WiFi Extender,11,1799,19789,South,Credit Card
+TXN071,2025-03-13,Grocery,Energy Bars,20,249,4980,North,Cash
+TXN072,2025-03-14,Clothing,Denim Jacket,6,2999,17994,West,UPI
+TXN073,2025-03-15,Electronics,Action Camera,4,9999,39996,East,Credit Card
+TXN074,2025-03-16,Books,Software Engineering,13,699,9087,South,Cash
+TXN075,2025-03-17,Home Decor,Study Desk,5,7999,39995,North,Debit Card
+TXN076,2025-03-18,Electronics,VR Headset,2,24999,49998,West,Credit Card
+TXN077,2025-03-19,Grocery,Herbal Tea,18,399,7182,East,UPI
+TXN078,2025-03-20,Clothing,Winter Coat,3,5999,17997,South,Cash
+TXN079,2025-03-21,Electronics,Laptop,4,65999,263996,North,Credit Card
+TXN080,2025-03-22,Books,Computer Networks,11,899,9889,West,UPI
+TXN081,2025-03-23,Home Decor,Shoe Rack,7,2499,17493,East,Debit Card
+TXN082,2025-03-24,Electronics,Portable SSD,8,6999,55992,South,Credit Card
+TXN083,2025-03-25,Grocery,Muesli,15,499,7485,North,Cash
+TXN084,2025-03-26,Clothing,Joggers,17,799,13583,West,UPI
+TXN085,2025-03-27,Electronics,Smart Band,10,2999,29990,East,Credit Card
+TXN086,2025-03-28,Books,Operating Systems,9,1099,9891,South,Cash
+TXN087,2025-03-29,Home Decor,TV Unit,3,11999,35997,North,Debit Card
+TXN088,2025-03-30,Electronics,CPU Cooler,12,1999,23988,West,Credit Card
+TXN089,2025-03-31,Grocery,Walnuts,10,1199,11990,East,UPI
+TXN090,2025-04-01,Clothing,Sandals,18,699,12582,South,Cash
+TXN091,2025-04-02,Electronics,Smartphone Pro,3,29999,89997,North,Credit Card
+TXN092,2025-04-03,Books,Database Systems,8,999,7992,West,UPI
+TXN093,2025-04-04,Home Decor,Bedside Table,6,3499,20994,East,Debit Card
+TXN094,2025-04-05,Electronics,Noise Cancelling Headphones,5,8999,44995,South,Credit Card
+TXN095,2025-04-06,Grocery,Chia Seeds,20,299,5980,North,Cash
+TXN096,2025-04-07,Clothing,Kurta,14,899,12586,West,UPI
+TXN097,2025-04-08,Electronics,Smart Home Hub,4,7999,31996,East,Credit Card
+TXN098,2025-04-09,Books,Web Development,12,799,9588,South,Cash
+TXN099,2025-04-10,Home Decor,Bean Bag,5,3999,19995,North,Debit Card
+TXN100,2025-04-11,Electronics,Gaming Chair,3,14999,44997,West,Credit Card
